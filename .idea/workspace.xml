@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c58af95-9911-45a6-904a-6dcd1d7c61c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kj9ZPTsBBpS3sYPSuKRJPJNoNr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.AmicableNumbers">
+    <configuration name="AmicableNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.AmicableNumbers" />
+      <module name="ProjectEuler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.project.euler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingSundays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.CountingSundays" />
+      <module name="ProjectEuler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.project.euler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactorialDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.FactorialDigitSum" />
+      <module name="ProjectEuler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.project.euler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumPathSumOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.MaximumPathSumOne" />
+      <module name="ProjectEuler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.project.euler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberLetterCounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.NumberLetterCounts" />
+      <module name="ProjectEuler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.project.euler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AmicableNumbers" />
+        <item itemvalue="Application.FactorialDigitSum" />
+        <item itemvalue="Application.CountingSundays" />
+        <item itemvalue="Application.MaximumPathSumOne" />
+        <item itemvalue="Application.NumberLetterCounts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c58af95-9911-45a6-904a-6dcd1d7c61c6" name="Default Changelist" comment="" />
+      <created>1606203188310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606203188310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1255" height="228" key="GridCell.Tab.0.bottom" timestamp="1606401257092">
+      <screen x="67" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="228" key="GridCell.Tab.0.bottom/67.27.1301.741@67.27.1301.741" timestamp="1606401257092" />
+    <state width="1255" height="228" key="GridCell.Tab.0.center" timestamp="1606401257091">
+      <screen x="67" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="228" key="GridCell.Tab.0.center/67.27.1301.741@67.27.1301.741" timestamp="1606401257091" />
+    <state width="1255" height="228" key="GridCell.Tab.0.left" timestamp="1606401257091">
+      <screen x="67" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="228" key="GridCell.Tab.0.left/67.27.1301.741@67.27.1301.741" timestamp="1606401257091" />
+    <state width="1255" height="228" key="GridCell.Tab.0.right" timestamp="1606401257091">
+      <screen x="67" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="228" key="GridCell.Tab.0.right/67.27.1301.741@67.27.1301.741" timestamp="1606401257091" />
+    <state x="524" y="333" key="ReplaceDuplicatesPrompt" timestamp="1606297011536">
+      <screen x="67" y="27" width="1301" height="741" />
+    </state>
+    <state x="524" y="333" key="ReplaceDuplicatesPrompt/67.27.1301.741@67.27.1301.741" timestamp="1606297011536" />
+    <state x="450" y="151" width="554" height="500" key="extract.method.dialog" timestamp="1606323488200">
+      <screen x="67" y="27" width="1301" height="741" />
+    </state>
+    <state x="450" y="151" width="554" height="500" key="extract.method.dialog/67.27.1301.741@67.27.1301.741" timestamp="1606323488200" />
+    <state x="362" y="132" width="710" height="528" key="find.popup" timestamp="1606311302845">
+      <screen x="67" y="27" width="1301" height="741" />
+    </state>
+    <state x="362" y="132" width="710" height="528" key="find.popup/67.27.1301.741@67.27.1301.741" timestamp="1606311302845" />
+  </component>
+</project>

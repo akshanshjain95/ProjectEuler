@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c58af95-9911-45a6-904a-6dcd1d7c61c6" name="Default Changelist" comment="" />
+    <list default="true" id="4c58af95-9911-45a6-904a-6dcd1d7c61c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1kj9ZPTsBBpS3sYPSuKRJPJNoNr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,7 +38,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.AmicableNumbers">
+  <component name="RunManager" selected="Application.NonAbundantSums">
     <configuration name="AmicableNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.project.euler.AmicableNumbers" />
       <module name="ProjectEuler" />
@@ -72,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumPathSumOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.project.euler.MaximumPathSumOne" />
+    <configuration name="NamesScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.NamesScores" />
       <module name="ProjectEuler" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberLetterCounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.project.euler.NumberLetterCounts" />
+    <configuration name="NonAbundantSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.NonAbundantSums" />
       <module name="ProjectEuler" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NonAbundantSums" />
+        <item itemvalue="Application.NamesScores" />
         <item itemvalue="Application.AmicableNumbers" />
         <item itemvalue="Application.FactorialDigitSum" />
         <item itemvalue="Application.CountingSundays" />
-        <item itemvalue="Application.MaximumPathSumOne" />
-        <item itemvalue="Application.NumberLetterCounts" />
       </list>
     </recent_temporary>
   </component>
@@ -134,22 +140,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1255" height="228" key="GridCell.Tab.0.bottom" timestamp="1606401257092">
+    <state width="1255" height="228" key="GridCell.Tab.0.bottom" timestamp="1606420417560">
       <screen x="67" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="228" key="GridCell.Tab.0.bottom/67.27.1301.741@67.27.1301.741" timestamp="1606401257092" />
-    <state width="1255" height="228" key="GridCell.Tab.0.center" timestamp="1606401257091">
+    <state width="1255" height="228" key="GridCell.Tab.0.bottom/67.27.1301.741@67.27.1301.741" timestamp="1606420417560" />
+    <state width="1255" height="228" key="GridCell.Tab.0.center" timestamp="1606420417560">
       <screen x="67" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="228" key="GridCell.Tab.0.center/67.27.1301.741@67.27.1301.741" timestamp="1606401257091" />
-    <state width="1255" height="228" key="GridCell.Tab.0.left" timestamp="1606401257091">
+    <state width="1255" height="228" key="GridCell.Tab.0.center/67.27.1301.741@67.27.1301.741" timestamp="1606420417560" />
+    <state width="1255" height="228" key="GridCell.Tab.0.left" timestamp="1606420417560">
       <screen x="67" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="228" key="GridCell.Tab.0.left/67.27.1301.741@67.27.1301.741" timestamp="1606401257091" />
-    <state width="1255" height="228" key="GridCell.Tab.0.right" timestamp="1606401257091">
+    <state width="1255" height="228" key="GridCell.Tab.0.left/67.27.1301.741@67.27.1301.741" timestamp="1606420417560" />
+    <state width="1255" height="228" key="GridCell.Tab.0.right" timestamp="1606420417560">
       <screen x="67" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="228" key="GridCell.Tab.0.right/67.27.1301.741@67.27.1301.741" timestamp="1606401257091" />
+    <state width="1255" height="228" key="GridCell.Tab.0.right/67.27.1301.741@67.27.1301.741" timestamp="1606420417560" />
     <state x="524" y="333" key="ReplaceDuplicatesPrompt" timestamp="1606297011536">
       <screen x="67" y="27" width="1301" height="741" />
     </state>

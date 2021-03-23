@@ -38,9 +38,9 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.NonAbundantSums">
-    <configuration name="AmicableNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.project.euler.AmicableNumbers" />
+  <component name="RunManager" selected="Application.CoinSums">
+    <configuration name="CoinSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.CoinSums" />
       <module name="ProjectEuler" />
       <extension name="coverage">
         <pattern>
@@ -52,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingSundays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.project.euler.CountingSundays" />
+    <configuration name="DistinctPowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.DistinctPowers" />
       <module name="ProjectEuler" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.project.euler.FactorialDigitSum" />
+    <configuration name="NumberSprialDiagonals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.NumberSprialDiagonals" />
       <module name="ProjectEuler" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NamesScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.project.euler.NamesScores" />
+    <configuration name="QuadraticPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.QuadraticPrimes" />
       <module name="ProjectEuler" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonAbundantSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.project.euler.NonAbundantSums" />
+    <configuration name="ReciprocalCycles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.project.euler.ReciprocalCycles" />
       <module name="ProjectEuler" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NonAbundantSums" />
-        <item itemvalue="Application.NamesScores" />
-        <item itemvalue="Application.AmicableNumbers" />
-        <item itemvalue="Application.FactorialDigitSum" />
-        <item itemvalue="Application.CountingSundays" />
+        <item itemvalue="Application.CoinSums" />
+        <item itemvalue="Application.DistinctPowers" />
+        <item itemvalue="Application.NumberSprialDiagonals" />
+        <item itemvalue="Application.QuadraticPrimes" />
+        <item itemvalue="Application.ReciprocalCycles" />
       </list>
     </recent_temporary>
   </component>
@@ -140,22 +140,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1255" height="228" key="GridCell.Tab.0.bottom" timestamp="1606420417560">
+    <state width="1255" height="184" key="GridCell.Tab.0.bottom" timestamp="1606983836014">
       <screen x="67" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="228" key="GridCell.Tab.0.bottom/67.27.1301.741@67.27.1301.741" timestamp="1606420417560" />
-    <state width="1255" height="228" key="GridCell.Tab.0.center" timestamp="1606420417560">
+    <state width="1255" height="184" key="GridCell.Tab.0.bottom/67.27.1301.741@67.27.1301.741" timestamp="1606983836014" />
+    <state width="1255" height="184" key="GridCell.Tab.0.center" timestamp="1606983836013">
       <screen x="67" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="228" key="GridCell.Tab.0.center/67.27.1301.741@67.27.1301.741" timestamp="1606420417560" />
-    <state width="1255" height="228" key="GridCell.Tab.0.left" timestamp="1606420417560">
+    <state width="1255" height="184" key="GridCell.Tab.0.center/67.27.1301.741@67.27.1301.741" timestamp="1606983836013" />
+    <state width="1255" height="184" key="GridCell.Tab.0.left" timestamp="1606983836013">
       <screen x="67" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="228" key="GridCell.Tab.0.left/67.27.1301.741@67.27.1301.741" timestamp="1606420417560" />
-    <state width="1255" height="228" key="GridCell.Tab.0.right" timestamp="1606420417560">
+    <state width="1255" height="184" key="GridCell.Tab.0.left/67.27.1301.741@67.27.1301.741" timestamp="1606983836013" />
+    <state width="1255" height="184" key="GridCell.Tab.0.right" timestamp="1606983836013">
       <screen x="67" y="27" width="1301" height="741" />
     </state>
-    <state width="1255" height="228" key="GridCell.Tab.0.right/67.27.1301.741@67.27.1301.741" timestamp="1606420417560" />
+    <state width="1255" height="184" key="GridCell.Tab.0.right/67.27.1301.741@67.27.1301.741" timestamp="1606983836013" />
     <state x="524" y="333" key="ReplaceDuplicatesPrompt" timestamp="1606297011536">
       <screen x="67" y="27" width="1301" height="741" />
     </state>
@@ -168,5 +168,9 @@
       <screen x="67" y="27" width="1301" height="741" />
     </state>
     <state x="362" y="132" width="710" height="528" key="find.popup/67.27.1301.741@67.27.1301.741" timestamp="1606311302845" />
+    <state x="380" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1606451454756">
+      <screen x="67" y="27" width="1301" height="741" />
+    </state>
+    <state x="380" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1301.741@67.27.1301.741" timestamp="1606451454756" />
   </component>
 </project>
